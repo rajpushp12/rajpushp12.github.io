@@ -3,27 +3,37 @@ export const achievementData = {
     achievements : [
         {
             id : 1,
-            title : 'Google Cloud certification',
-            details : 'Google Cloud certifications validate your expertise and showcase your ability to transform businesses with Google Cloud technology.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1573141597928-403fcee0e056?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=667&q=80'
+            title : 'Introduction to Microsoft Azure Cloud Services',
+            details : '',
+            date : 'Jan, 2022',
+            field : 'Cloud',
+            image : 'https://www.coursera.org/account/accomplishments/certificate/ZUEDFSD9577F'
         },
         {
             id : 2,
-            title : 'AWS Certification',
-            details : 'Validate technical skills and cloud expertise to grow your career and business.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1523474253046-8cd2748b5fd2?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'CS50s Web Programming with Python and JavaScript',
+            details : '',
+            date : 'Oct, 2021',
+            field : 'Web Dev',
+            image : 'https://certificates.cs50.io/4cdc3355-577e-4421-80a9-4632e333652f.pdf?size=letter'
         },
+
         {
             id : 3,
-            title : 'Professional Data Engineer Certification',
-            details : 'Professional Data Engineers enable data-driven decision making by collecting, transforming, and publishing data.',
-            date : 'Aug 20, 2019',
-            field : 'Automation',
-            image : 'https://images.unsplash.com/photo-1489389944381-3471b5b30f04?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1050&q=80'
+            title : 'Data Visualization in Excel',
+            details : '',
+            date : 'Oct, 2021',
+            field : 'Data',
+            image : 'https://www.coursera.org/account/accomplishments/certificate/EN34JB4RX4GH'
+        },
+
+        {
+            id : 4,
+            title : 'Python for Data Science, AI & Development',
+            details : '',
+            date : 'Apr, 2020',
+            field : 'Data',
+            image : 'https://www.coursera.org/account/accomplishments/certificate/JF4FLUW45FM9'
         }
 
     ]

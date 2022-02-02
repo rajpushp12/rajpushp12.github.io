@@ -1,23 +1,16 @@
 export const educationData = [
     {
         id: 1,
-        institution: 'Marble Hills Middle School',
-        course: 'Higher Secondary Education',
-        startYear: '2007',
-        endYear: '2015'
+        institution: 'The Indian Public School, Dehradun',
+        course: 'CBSE 2018 | Maths and CS',
+        startYear: '2010',
+        endYear: '2018'
     },
     {
         id: 2,
-        institution: 'Somerset School of Science',
-        course: 'Bachelor of Technology',
-        startYear: '2015',
-        endYear: '2019'
-    },
-    {
-        id: 3,
-        institution: 'Hawking University, Cambridge',
-        course: 'Master of Technology',
+        institution: 'Manipal Institute of Technology, Manipal',
+        course: 'B.Tech | Electronics and Communication Engineering',
         startYear: '2019',
-        endYear: 'Present'
+        endYear: '2023'
     },
 ]
