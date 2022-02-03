@@ -9,7 +9,7 @@ export const educationData = [
     {
         id: 2,
         institution: 'Manipal Institute of Technology, Manipal',
-        course: 'B.Tech | Electronics and Communication Engineering',
+        course: 'B.Tech | ECE',
         startYear: '2019',
         endYear: '2023'
     },

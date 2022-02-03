@@ -92,7 +92,7 @@
 .submit-btn button {
     border: none;
     outline: none;
-    width: 340px;
+    width: 120px;
     height: 50px;
     border-radius: 50px;
     font-weight: 500;
@@ -104,7 +104,7 @@
 }
 
 .submit-btn button p {
-    font-size: 18px;
+    font-size: 16px;
     font-family: var(--primaryFont);
 }
 
@@ -115,7 +115,7 @@
     padding: 5px;
 }
 .send-icon {
-    font-size: 25px;
+    font-size: 20px;
     transform-origin: center;
     transform: translate(5px,-3px) rotate(-30deg);
 }
