@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.2b9db710.chunk.css",
-    "main.js": "/static/js/main.b3ae3db3.chunk.js",
-    "main.js.map": "/static/js/main.b3ae3db3.chunk.js.map",
+    "main.css": "/static/css/main.e545781a.chunk.css",
+    "main.js": "/static/js/main.4d65c49a.chunk.js",
+    "main.js.map": "/static/js/main.4d65c49a.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.66cd901b.js",
     "runtime-main.js.map": "/static/js/runtime-main.66cd901b.js.map",
     "static/css/2.19627560.chunk.css": "/static/css/2.19627560.chunk.css",
@@ -12,7 +12,7 @@
     "static/js/3.dc9b58a5.chunk.js.map": "/static/js/3.dc9b58a5.chunk.js.map",
     "index.html": "/index.html",
     "static/css/2.19627560.chunk.css.map": "/static/css/2.19627560.chunk.css.map",
-    "static/css/main.2b9db710.chunk.css.map": "/static/css/main.2b9db710.chunk.css.map",
+    "static/css/main.e545781a.chunk.css.map": "/static/css/main.e545781a.chunk.css.map",
     "static/js/2.9a07991e.chunk.js.LICENSE.txt": "/static/js/2.9a07991e.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/BestermindRegular.e58a1922.ttf",
     "static/media/adobe-xd.a6dca99d.svg": "/static/media/adobe-xd.a6dca99d.svg",
@@ -147,7 +147,7 @@
     "static/js/runtime-main.66cd901b.js",
     "static/css/2.19627560.chunk.css",
     "static/js/2.9a07991e.chunk.js",
-    "static/css/main.2b9db710.chunk.css",
-    "static/js/main.b3ae3db3.chunk.js"
+    "static/css/main.e545781a.chunk.css",
+    "static/js/main.4d65c49a.chunk.js"
   ]
 }
